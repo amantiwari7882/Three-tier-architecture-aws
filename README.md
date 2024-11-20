@@ -127,7 +127,7 @@ The project follows a **three-tier architecture** deployed on AWS. This architec
 2. **Application Tier**: Processes business logic.
 3. **Database Tier**: Stores persistent data.
 
-![alt text]()
+![alt text](https://github.com/amantiwari7882/Three-tier-architecture-aws/blob/cef550310492ecc77a9a48fef27e3b7fe02261c7/application-code/project%20ss/three%20tier%20diagram.png)
 
 #### **Description of the Three-Tier Setup**  
 
@@ -351,22 +351,22 @@ The project follows a **three-tier architecture** deployed on AWS. This architec
 #### **AWS Management Console Screenshots**  
 **Load Balancer**:
 
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/amantiwari7882/Three-tier-architecture-aws/blob/cef550310492ecc77a9a48fef27e3b7fe02261c7/application-code/project%20ss/lb.png)
+![alt text](https://github.com/amantiwari7882/Three-tier-architecture-aws/blob/cef550310492ecc77a9a48fef27e3b7fe02261c7/application-code/project%20ss/apptier-lb.png)
+![alt text](https://github.com/amantiwari7882/Three-tier-architecture-aws/blob/cef550310492ecc77a9a48fef27e3b7fe02261c7/application-code/project%20ss/webtier-lb.png)
 
 **EC2 Instances**:  
 
-![alt text]()
-![alt text]()
+![alt text](https://github.com/amantiwari7882/Three-tier-architecture-aws/blob/cef550310492ecc77a9a48fef27e3b7fe02261c7/application-code/project%20ss/app%20ec2.png)
+![alt text](https://github.com/amantiwari7882/Three-tier-architecture-aws/blob/cef550310492ecc77a9a48fef27e3b7fe02261c7/application-code/project%20ss/webtier-lb.png)
 
 **RDS Configuration**:  
-![alt text]()
-![alt text]()
+![alt text](https://github.com/amantiwari7882/Three-tier-architecture-aws/blob/cef550310492ecc77a9a48fef27e3b7fe02261c7/application-code/project%20ss/rds.png)
+![alt text](https://github.com/amantiwari7882/Three-tier-architecture-aws/blob/cef550310492ecc77a9a48fef27e3b7fe02261c7/application-code/project%20ss/db%20creation.png)
 
 **Final Working**:
-![alt text]()
-![alt text]()
+![alt text](https://github.com/amantiwari7882/Three-tier-architecture-aws/blob/cef550310492ecc77a9a48fef27e3b7fe02261c7/application-code/project%20ss/final%20ss%201.png)
+![alt text](https://github.com/amantiwari7882/Three-tier-architecture-aws/blob/cef550310492ecc77a9a48fef27e3b7fe02261c7/application-code/project%20ss/final%20ss%202.png)
 
 ---
 
